@@ -1,9 +1,9 @@
 import csv
 datos = {}
 archivos = [
-    "../datos/raw/vendas_2025_cuadrimestre1.csv",
-    "../datos/raw/vendas_2025_cuadrimestre2.csv",
-    "../datos/raw/vendas_2025_cuadrimestre3.csv"
+    "datos/raw/vendas_2025_cuadrimestre1.csv",
+    "datos/raw/vendas_2025_cuadrimestre2.csv",
+    "datos/raw/vendas_2025_cuadrimestre3.csv"
 ]
 
 for nome_archivo in archivos:
