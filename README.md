@@ -8,8 +8,6 @@ Proyecto de procesamiento y análisis de datos de ventas utilizando Python. El o
 
 - **Python 3:** procesamiento de los datos.
 - **CSV:** lectura de los archivos de ventas mediante el módulo `csv` de la biblioteca estándar de Python.
-- **SQL:** directorio destinado a consultas y scripts SQL.
-- **Jupyter Notebook:** directorio destinado a notebooks de análisis y pruebas.
 
 ## Estructura del proyecto
 
