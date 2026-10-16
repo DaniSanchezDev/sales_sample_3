@@ -42,10 +42,9 @@ El script actual utiliza únicamente módulos de la biblioteca estándar de Pyth
 Desde una terminal, ejecutar:
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/DaniSanchezDev/sales_sample_3.git
 ```
 
-Sustituir `URL_DEL_REPOSITORIO` por la dirección real del repositorio.
 
 ### 2. Acceder al directorio del proyecto
 
